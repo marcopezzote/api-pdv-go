@@ -1,0 +1,35 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Output of the go coverage tool
+*.cover
+
+# Go workspace file
+go.work
+go.work.sum
+
+# Configuration files and directories
+.env
+
+# Logs
+*.log
+
+# Directory for IDE
+.idea/
+.vscode/
+*.swp
+
+# Node modules (if you are using any frontend tools)
+node_modules/
+
+# Dependency directories
+vendor/
+
+# Go build output
+bin/
